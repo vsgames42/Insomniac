@@ -1,0 +1,100 @@
+.navdiv{
+    background-color: #151c1f;
+}
+.navnav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+.bg{
+    height: 1080px;
+}
+.video{
+    position: relative;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.nav2{
+    margin-left: 600px;
+    height: 30px;
+    margin-bottom: 0;
+}
+.navd{
+    height: 30px;
+}
+.nav-link{
+    height: 30px;
+}
+.games{
+    padding-left: 450px;
+}
+.hr{
+    width: 5%;
+    border: 2px solid white;
+    margin-left: 450px;
+    color: white;
+}
+.p1{
+    padding-left: 160px;
+    color: white;
+}
+.slide{
+    background-color: white;
+    width: 500px;
+    padding: 30px;
+    opacity: 0.7;
+}
+.navdd{
+    position: fixed;
+    top: 30px;
+}
+.vm{
+    padding-left: 450px;
+    padding-right: 450px;
+}
+.button{
+    background-color: #176775;
+    width: 250px;
+    height: 40px;
+    color: #f1f1f1;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+}
+.button:hover{
+    background-color: #477e88;
+}
+.button2{
+    background-color: #012a31;
+    width: 250px;
+    height: 40px;
+    color: #f1f1f1;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+}
+.button2:hover{
+    background-color: #184249;
+}
+.navd{
+    position: sticky;
+    top: 64px;
+}
+.foothead{
+    font-weight: bold;
+}
+.foot{
+    color: #6aaeb9;
+    text-decoration: none;
+}
+.dfoot{
+    gap: 220px;
+}
+.dfoot2{
+    gap: 250px;
+}

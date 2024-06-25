@@ -1,0 +1,109 @@
+.navdiv{
+    background-color: #151c1f;
+}
+.navnav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+.bg1{
+    position: relative;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.cont1{
+    position: absolute;
+    bottom: 0;
+    color: #f1f1f1;
+    padding: 20px;
+    padding-bottom: 180px;
+    padding-left: 300px;
+    font-weight: bold;
+}
+.button{
+    background-color: #176775;
+    width: 250px;
+    height: 40px;
+    color: #f1f1f1;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+}
+.button:hover{
+    background-color: #477e88;
+}
+.games{
+    padding-left: 450px;
+}
+.hr{
+    width: 5%;
+    border: 2px solid white;
+    margin-left: 450px;
+    color: white;
+}
+.comj{
+    gap: 30px;
+}
+.comtwi{
+    gap: 30px;
+}
+.news{
+    gap: 0px;
+}
+.hh{
+    padding-top: 130px;
+    padding-left: 100px;
+}
+.article{
+    margin-left: 100px;
+    width: 120px;
+    background-color: black;
+    color: #f1f1f1;
+    margin-top: 20px;
+}
+.sm{
+    background-color: #f1f1f1;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+}
+.smi{
+    color: #176775;
+    font-size: 24px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.hr2{
+    width: 5%;
+    border: 2px solid white;
+    margin-left: 300px;
+    color: white;
+}
+.games2{
+    padding-left: 300px;
+}
+.foothead{
+    font-weight: bold;
+}
+.foot{
+    color: #6aaeb9;
+    text-decoration: none;
+}
+.dfoot{
+    gap: 220px;
+}
+.dfoot2{
+    gap: 250px;
+}
+.button2{
+    background-color: black;
+    color: #f1f1f1;
+    width: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 760px;
+}
